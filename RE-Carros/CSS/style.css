@@ -1,0 +1,43 @@
+body{
+    background-color:aliceblue;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;    
+    text-align: center;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-image: url(../img/imgestrada.jpg);
+    font-size: 18px;
+    color:antiquewhite
+}
+    
+img{
+    height: 240px;
+    width: 290px;
+    border-radius: 15%;
+}
+    
+div{
+    width: 96%;
+    background-color:dodgerblue;
+    border: solid black 4px;
+    border-radius: 10px;
+    padding: 15px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
+
+.card3{
+    display: block;
+    background-color:dodgerblue;
+    width: 220px;
+    height: 180px;
+    border-radius: 10px;
+    border: solid black 4px;
+    box-shadow: 4px 4px 12px black;
+    padding: 15px;
+    margin-top: 20px;
+    align-items: center;
+    margin-left: 550px;
+    
+}

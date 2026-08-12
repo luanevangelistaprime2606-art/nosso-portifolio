@@ -1,0 +1,80 @@
+body{
+    background-color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:black;
+    position: absolute;
+    text-align: center;
+    font-size: 17px;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    background-image: url(../imgs/imagemmenu.jpg);
+    font-size: 18px;
+    color:black
+}
+    
+
+header{
+    position: relative;
+    text-align: center;
+}
+
+div{
+    position: relative;
+    text-align: center;;
+}
+
+.card1{
+    display: inline-block;
+    position: relative;
+    background-color:darkgrey;
+    color:black;
+    border-radius: 10px;
+    box-shadow: 4px 4px 12px black;
+    margin-top: 30px;
+    padding: 30px;
+    margin-right: 6px;
+}
+
+.card2{
+    display: inline-block;
+    position: relative;
+    background-color: darkgrey;
+    color:black;
+    border-radius: 10px;
+    box-shadow: 4px 4px 12px black;
+    margin-top: 30px;
+    padding: 30px;
+    margin-right: 6px;
+    margin-left: 6px;
+}
+
+.card3{
+    display: inline-block;
+    position: relative;
+    background-color: darkgrey;
+    color:black;
+    border-radius: 10px;
+    box-shadow: 4px 4px 12px black;
+    margin-top: 30px;
+    padding: 30px;
+    margin-right: 6px;
+    margin-left: 6px;
+}
+
+.card4{
+    display: inline-block;
+    position: relative;
+    background-color: darkgrey;
+    border-radius: 10px;
+    color:black;
+    box-shadow: 4px 4px 12px black;
+    margin-top: 30px;
+    padding: 30px;
+    margin-left: 6px;
+}
+
+img{
+    width: 250px;
+    height: 250px;
+}

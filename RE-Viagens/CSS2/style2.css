@@ -1,0 +1,103 @@
+body{
+    background-color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:black;
+    display:flex;
+    grid-template-columns: 2fr 1fr; 
+    grid-template-rows: 3fr 1fr;
+    font-size: 17px;
+}
+
+header{
+    position: relative;
+    text-align: center;
+    border: 2px;
+    border-radius: 30px;
+}
+
+div{
+    position: relative;
+    text-align: center;
+}
+
+.card1{
+    background-color:green;
+    text-align: center;
+    align-items: center;
+    margin-top: 10px;
+    width: 550px;
+    height: 890px;
+    border-radius: 30px;
+    border: 2px;
+    box-shadow: 4px 4px 12px black;
+    margin-left: 0px;
+    margin-right: 20px;
+    top: 10px;
+    bottom: 20px;
+}
+
+.card2{
+    background-color:silver;
+    text-align: center;
+    align-items: center;
+    margin-top: 10px;
+    width: 500px;
+    height: 760px;
+    border-radius: 30px;
+    border: 2px;
+    box-shadow: 4px 4px 12px black;
+    margin-left: 20px;
+    margin-right: 20px;
+    top: 10px;
+    bottom: 20px;
+}
+
+.card3{
+    background-color:silver;
+    text-align: center;
+    align-items: center;
+    margin-top: 10px;
+    width: 500px;
+    height: 630px;
+    border-radius: 30px;
+    border: 2px;
+    box-shadow: 4px 4px 12px black;
+    margin-left: 20px;
+    margin-right: 20px;
+    top: 10px;
+    bottom: 20px;
+}
+
+.card4{
+    background-color:red;
+    text-align: center;
+    align-items: center;
+    margin-top: 10px;
+    width: 500px;
+    height: 630px;
+    border-radius: 30px;
+    border: 2px;
+    box-shadow: 4px 4px 12px black;
+    margin-left: 20px;
+    margin-right: 20px;
+    top: 10px;
+    bottom: 20px;
+}
+
+.card5{
+    all: unset;
+    position: absolute;
+    display: grid;
+    background-color:darkgray;
+    text-align: center;
+    align-items: center;
+    width: 600px;
+    height: 150px;
+    border-radius: 30px;
+    border: 2px;
+    box-shadow: 4px 4px 12px black;
+    margin-left: 700px;
+    margin-right: 50px;
+    margin-top: 700px;
+    margin-bottom: 20px;
+}

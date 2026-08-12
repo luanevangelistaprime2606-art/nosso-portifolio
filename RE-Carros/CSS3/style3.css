@@ -1,0 +1,53 @@
+body{
+    background-color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:black;
+    display:flex;
+    grid-template-columns: 2fr 1fr; 
+    grid-template-rows: 3fr 1fr;
+    font-size: 17px;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    background-image: url(../img/imgimpalaechevelle.jpg);
+    font-size: 16px;
+    color:silver
+}
+    
+
+header{
+    position: relative;
+    text-align: center;
+    border: 2px;
+    border-radius: 30px;
+}
+
+div{
+    position: relative;
+    text-align: center;;
+}
+
+.card1{
+    position: absolute;
+    display:block;
+    margin-top: 10px;
+    margin-left: 50px;
+    font-size: 18px;
+}
+
+.card2{
+    background-color: darkgrey;
+    color:black;
+    border-radius: 30px;
+    margin-top: 150px;
+    margin-right: 5px;    
+}
+
+.card3{
+    background-color: darkgrey;
+    color:black;
+    border-radius: 30px;
+    margin-top: 50px; 
+    margin-left: 5px;
+    width: 2500px;  
+}
